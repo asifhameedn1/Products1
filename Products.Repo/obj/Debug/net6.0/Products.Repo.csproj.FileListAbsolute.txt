@@ -1,0 +1,15 @@
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\bin\Debug\net6.0\Products.Repo.deps.json
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\bin\Debug\net6.0\Products.Repo.dll
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\bin\Debug\net6.0\Products.Repo.pdb
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\bin\Debug\net6.0\Products.Entities.dll
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\bin\Debug\net6.0\Products.Entities.pdb
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.csproj.AssemblyReference.cache
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.AssemblyInfoInputs.cache
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.AssemblyInfo.cs
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.csproj.CoreCompileInputs.cache
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.csproj.CopyComplete
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.dll
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\refint\Products.Repo.dll
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\Products.Repo.pdb
+C:\Users\asif.hameed\source\repos\Products\Products.Repo\obj\Debug\net6.0\ref\Products.Repo.dll
